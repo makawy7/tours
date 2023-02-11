@@ -1,2 +1,2 @@
 
-## Baisc Practice App With React.js
+## Basic Practice App With React.js
